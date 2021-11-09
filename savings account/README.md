@@ -1,0 +1,1 @@
+This package is an attempt at a savings account program. You will be able to add revenues and expenses, calculate the rate they will occur, and be able to estimate how long it'll take for you to reach a specific monetarial goal. Make sure to note down the results to work the other modules.
